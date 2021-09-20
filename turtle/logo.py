@@ -102,7 +102,7 @@ def test():
 if __name__ == '__main__':
     tt.speed(10)
 
-    test()
+    # test()
 
     col( '#f5cf9c' )
 
